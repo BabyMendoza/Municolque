@@ -1,0 +1,163 @@
+<manifest alg="2" build="11" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1449029034277">
+  <folder name="css">
+    <file name="site_global.css" crc="54097046"/>
+    <file name="master_a-p_g_-maestra.css" crc="4276553090" ref="contactos:index:turismo:videos:consejo-municipal:infraestructura:medio-ambiente:desarrollo-económico:desarrollo-social"/>
+    <file name="contactos.css" crc="335314752" ref="contactos"/>
+    <file name="index.css" crc="534377869" ref="index"/>
+    <file name="turismo.css" crc="103400617" ref="turismo"/>
+    <file name="videos.css" crc="4183396778" ref="videos"/>
+    <file name="consejo-municipal.css" crc="4213206771" ref="consejo-municipal"/>
+    <file name="infraestructura.css" crc="255920964" ref="infraestructura"/>
+    <file name="medio-ambiente.css" crc="3823655657" ref="medio-ambiente"/>
+    <file name="desarrollo-econ_mico.css" crc="416088157" ref="desarrollo-económico"/>
+    <file name="desarrollo-social.css" crc="4028499566" ref="desarrollo-social"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="3880902115" ref="index:desarrollo-económico:consejo-municipal:turismo:desarrollo-social:infraestructura:videos:contactos:medio-ambiente"/>
+    <file name="museutils.js" crc="521960461" ref="index:desarrollo-económico:consejo-municipal:turismo:desarrollo-social:infraestructura:videos:contactos:medio-ambiente"/>
+    <file name="pie.js" crc="3827607177" ref="index:consejo-municipal:medio-ambiente"/>
+    <file name="jquery.watch.js" crc="56779320" ref="index:desarrollo-económico:consejo-municipal:turismo:desarrollo-social:infraestructura:videos:contactos:medio-ambiente"/>
+    <file name="jquery.musemenu.js" crc="397543671" ref="index:desarrollo-económico:consejo-municipal:turismo:desarrollo-social:infraestructura:videos:contactos:medio-ambiente"/>
+    <file name="webpro.js" crc="220831917" ref="index:contactos"/>
+    <file name="musewpslideshow.js" crc="224651946" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="276313855" ref="index"/>
+    <file name="touchswipe.js" crc="325405309" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="349594875" ref="index"/>
+    <file name="musewpdisclosure.js" crc="4110183178" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:desarrollo-económico:consejo-municipal:turismo:desarrollo-social:infraestructura:videos:contactos:medio-ambiente"/>
+    <file name="form_check.php" crc="218543696" ref="contactos"/>
+    <file name="form_throttle.php" crc="3988545917" ref="contactos"/>
+    <file name="form_process.php" crc="4264751530" ref="contactos"/>
+    <file name="form-u1448.php" crc="69170502" ref="contactos"/>
+  </folder>
+  <folder name="images">
+    <file name="u75-grad.png" crc="114907240" ref="index:medio-ambiente"/>
+    <file name="facebook.png" crc="472710629" ref="index:desarrollo-económico:consejo-municipal:turismo:desarrollo-social:infraestructura:videos:contactos:medio-ambiente"/>
+    <file name="logo.png" crc="3899459339" ref="index:desarrollo-económico:consejo-municipal:turismo:desarrollo-social:infraestructura:videos:contactos:medio-ambiente"/>
+    <file name="twitter.png" crc="4059228692" ref="index:desarrollo-económico:consejo-municipal:turismo:desarrollo-social:infraestructura:videos:contactos:medio-ambiente"/>
+    <file name="blogger.png" crc="210970718" ref="index:desarrollo-económico:consejo-municipal:turismo:desarrollo-social:infraestructura:videos:contactos:medio-ambiente"/>
+    <file name="youtube.png" crc="523509546" ref="index:desarrollo-económico:consejo-municipal:turismo:desarrollo-social:infraestructura:videos:contactos:medio-ambiente"/>
+    <file name="a11.jpg" crc="3937789390" ref="index"/>
+    <file name="a1.jpg" crc="4095766709" ref="index"/>
+    <file name="a10.jpg" crc="4206232630" ref="index"/>
+    <file name="a3.jpg" crc="4139886725" ref="index"/>
+    <file name="a4.jpg" crc="105406174" ref="index"/>
+    <file name="a6.jpg" crc="70261185" ref="index"/>
+    <file name="a7.jpg" crc="4272317479" ref="index"/>
+    <file name="a8.jpg" crc="214233882" ref="index"/>
+    <file name="a9.jpg" crc="3952842621" ref="index"/>
+    <file name="a12.jpg" crc="186814095" ref="index"/>
+    <file name="mef.jpg" crc="3963024448" ref="index"/>
+    <file name="snif.jpg" crc="165260519" ref="index"/>
+    <file name="reniec.jpg" crc="4139392443" ref="index"/>
+    <file name="sunat.jpg" crc="205552375" ref="index"/>
+    <file name="transparencia.jpg" crc="3970503952" ref="index"/>
+    <file name="el peruano.jpg" crc="141426446" ref="index"/>
+    <file name="act1.jpg" crc="4186492265" ref="index"/>
+    <file name="act2.jpg" crc="113648833" ref="index"/>
+    <file name="act3.jpg" crc="3867983459" ref="index"/>
+    <file name="act4.jpg" crc="3961472234" ref="index"/>
+    <file name="act5.jpg" crc="3948493168" ref="index"/>
+    <file name="depe.jpg" crc="311056369" ref="index"/>
+    <file name="fongestion2-u1617-r-fr.jpg" crc="470300738" ref="index"/>
+    <file name="ambit.jpg" crc="450205911" ref="index"/>
+    <file name="fongestion4-u1619-r-fr.jpg" crc="4137729681" ref="index"/>
+    <file name="deso.jpg" crc="396974872" ref="index"/>
+    <file name="infa.jpg" crc="4049204337" ref="index"/>
+    <file name="fongestion1-u1610-r-fr.jpg" crc="117159711" ref="index"/>
+    <file name="fongestion3-u1618-r-fr.jpg" crc="4177471340" ref="index"/>
+    <file name="p65.png" crc="347040012" ref="index"/>
+    <file name="qali.jpg" crc="221930745" ref="index"/>
+    <file name="midi.jpg" crc="20866663" ref="index"/>
+    <file name="sisf.png" crc="97236964" ref="index"/>
+    <file name="link.jpg" crc="3926069831" ref="index"/>
+    <file name="u1138-grad.png" crc="5183874" ref="index:medio-ambiente"/>
+    <file name="a1.png" crc="4118642320" ref="desarrollo-económico"/>
+    <file name="a7.png" crc="3787851483" ref="desarrollo-económico"/>
+    <file name="a2.png" crc="3971621338" ref="desarrollo-económico"/>
+    <file name="a10.png" crc="125321262" ref="desarrollo-económico"/>
+    <file name="a4.png" crc="249060130" ref="desarrollo-económico"/>
+    <file name="a11.png" crc="173581641" ref="desarrollo-económico"/>
+    <file name="a5.png" crc="4204290772" ref="desarrollo-económico"/>
+    <file name="a8.png" crc="3936029804" ref="desarrollo-económico"/>
+    <file name="a6.png" crc="455840675" ref="desarrollo-económico"/>
+    <file name="a9.png" crc="63783038" ref="desarrollo-económico"/>
+    <file name="a3.png" crc="373451729" ref="desarrollo-económico"/>
+    <file name="a12.png" crc="4125078270" ref="desarrollo-económico"/>
+    <file name="alcalde.png" crc="4183103878" ref="consejo-municipal"/>
+    <file name="templos.png" crc="3893750840" ref="consejo-municipal"/>
+    <file name="sombrero.png" crc="4148583907" ref="consejo-municipal"/>
+    <file name="comunidad.png" crc="4207689952" ref="consejo-municipal"/>
+    <file name="colque.jpg" crc="4262459391" ref="consejo-municipal"/>
+    <file name="ll.png" crc="3891519091" ref="consejo-municipal"/>
+    <file name="mm.jpg" crc="3793030375" ref="consejo-municipal"/>
+    <file name="pp.jpg" crc="173434644" ref="consejo-municipal"/>
+    <file name="dd.jpg" crc="216074545" ref="consejo-municipal"/>
+    <file name="aniver.jpg" crc="460164146" ref="turismo"/>
+    <file name="toromanya.jpg" crc="3841923668" ref="turismo"/>
+    <file name="el niño con vestuario chumbivilcano-crop-u1287.jpg" crc="159296795" ref="turismo"/>
+    <file name="capill.jpg" crc="3925709521" ref="turismo"/>
+    <file name="grutaa-crop-u1342.jpg" crc="4040834290" ref="turismo"/>
+    <file name="grutas-crop-u1348.jpg" crc="531589602" ref="turismo"/>
+    <file name="11224682_1911295062428860_130625452027848545_n.jpg" crc="3883043042" ref="turismo"/>
+    <file name="prein.jpg" crc="118166447" ref="turismo"/>
+    <file name="frut-crop-u1328.jpg" crc="483113848" ref="turismo"/>
+    <file name="s1.png" crc="28765905" ref="desarrollo-social"/>
+    <file name="s7.png" crc="513215530" ref="desarrollo-social"/>
+    <file name="s2.png" crc="3787040811" ref="desarrollo-social"/>
+    <file name="s8.png" crc="511476203" ref="desarrollo-social"/>
+    <file name="s3.png" crc="3787805147" ref="desarrollo-social"/>
+    <file name="s9.png" crc="3885556466" ref="desarrollo-social"/>
+    <file name="s4.png" crc="4007059030" ref="desarrollo-social"/>
+    <file name="s10.png" crc="314730940" ref="desarrollo-social"/>
+    <file name="s5.png" crc="420445549" ref="desarrollo-social"/>
+    <file name="s11.png" crc="105781359" ref="desarrollo-social"/>
+    <file name="s6.png" crc="236465676" ref="desarrollo-social"/>
+    <file name="s12.png" crc="3770685370" ref="desarrollo-social"/>
+    <file name="s15.png" crc="371286408" ref="desarrollo-social"/>
+    <file name="s13.png" crc="98080632" ref="desarrollo-social"/>
+    <file name="s16.png" crc="4167183184" ref="desarrollo-social"/>
+    <file name="s14.png" crc="4086991893" ref="desarrollo-social"/>
+    <file name="s17.png" crc="4036366601" ref="desarrollo-social"/>
+    <file name="inf 6.png" crc="4208500295" ref="infraestructura"/>
+    <file name="inf1.png" crc="3765225361" ref="infraestructura"/>
+    <file name="inf 7.png" crc="444349953" ref="infraestructura"/>
+    <file name="inf.png" crc="4052224856" ref="infraestructura"/>
+    <file name="inf 8.png" crc="3827093431" ref="infraestructura"/>
+    <file name="inf2.png" crc="116550358" ref="infraestructura"/>
+    <file name="inf 9.png" crc="3923921025" ref="infraestructura"/>
+    <file name="inf3.png" crc="423773134" ref="infraestructura"/>
+    <file name="inf 10.png" crc="3805410863" ref="infraestructura"/>
+    <file name="inf4.png" crc="4167972161" ref="infraestructura"/>
+    <file name="inf 11.png" crc="478885485" ref="infraestructura"/>
+    <file name="inf5.png" crc="513422239" ref="infraestructura"/>
+    <file name="inf 12.png" crc="241531480" ref="infraestructura"/>
+    <file name="inf 15.png" crc="438351256" ref="infraestructura"/>
+    <file name="inf 13.png" crc="196441958" ref="infraestructura"/>
+    <file name="inf 16.png" crc="4085196123" ref="infraestructura"/>
+    <file name="inf 14.png" crc="3980149800" ref="infraestructura"/>
+    <file name="10361598_1859378834287150_5099958218415939720_n.jpg" crc="3795491153" ref="contactos"/>
+    <file name="u1484-17.png" crc="453088745" ref="contactos"/>
+    <file name="u1484-17-r.png" crc="441833550" ref="contactos"/>
+    <file name="u1484-17-m.png" crc="4246939309" ref="contactos"/>
+    <file name="u1484-17-fs.png" crc="281787221" ref="contactos"/>
+    <file name="12036807_1911297419095291_4813685841162546759_n.jpg" crc="4266760115" ref="contactos"/>
+    <file name="m1.png" crc="4040883672" ref="medio-ambiente"/>
+    <file name="m2.png" crc="3862415043" ref="medio-ambiente"/>
+    <file name="m3.png" crc="114967082" ref="medio-ambiente"/>
+    <file name="m4.png" crc="247000404" ref="medio-ambiente"/>
+    <file name="danza 2.png" crc="486443551" ref="medio-ambiente"/>
+    <file name="danza.png" crc="3971363499" ref="medio-ambiente"/>
+    <file name="m5.png" crc="336824092" ref="medio-ambiente"/>
+    <file name="m6.png" crc="4109748799" ref="medio-ambiente"/>
+  </folder>
+  <file name="index.html" crc="351977917" mt="1449028693584" redirect="true"/>
+  <file name="desarrollo-económico.html" crc="3784165942" mt="1449026198745" redirect="true"/>
+  <file name="consejo-municipal.html" crc="4126665061" mt="1449026198745" redirect="true"/>
+  <file name="turismo.html" crc="4023967920" mt="1449026198745" redirect="true"/>
+  <file name="desarrollo-social.html" crc="12645219" mt="1449028525933" redirect="true"/>
+  <file name="infraestructura.html" crc="4204193712" mt="1449027382043" redirect="true"/>
+  <file name="videos.html" crc="4276072988" mt="1449026198745" redirect="true"/>
+  <file name="contactos.html" crc="4020065827" mt="1449026198745" redirect="true"/>
+  <file name="medio-ambiente.html" crc="477005235" mt="1449028974425" redirect="true"/>
+</manifest>
